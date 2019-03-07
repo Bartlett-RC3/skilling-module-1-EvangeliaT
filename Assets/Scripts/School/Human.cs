@@ -7,7 +7,7 @@ public class Human
     // Variables
     int age;
     float height;
-    bool generder;
+    bool gender;
     string firstName, familyName;
     bool hungry;
     float energy;
@@ -15,9 +15,9 @@ public class Human
     // Constructor 
     public Human(int _age, float _height, bool _gender, string _firstName,string _familyName)
 	{
-        age = _age;
+        this.age = _age;
         height = _height;
-        generder = _gender;
+        gender = _gender;
         firstName = _firstName;
         familyName = _familyName;
         hungry = true;

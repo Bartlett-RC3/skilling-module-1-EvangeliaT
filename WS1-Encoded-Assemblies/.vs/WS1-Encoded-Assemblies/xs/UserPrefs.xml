@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E137BFDD-7071-7896-050A-833817D7EB51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tutorials/1-GameOfLifeIntro/Source/Behaviours/ModelManager.cs">
+    <Files>
+      <File FileName="Assets/Tutorials/1-GameOfLifeIntro/Source/Behaviours/ModelManager.cs" Line="169" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/evangelia/Documents/GitHub/skilling-module-1-EvangeliaT/WS1-Encoded-Assemblies/Assets/Tutorials/1-GameOfLifeIntro/Source/Behaviours/ModelManager.cs" relfile="Assets/Tutorials/1-GameOfLifeIntro/Source/Behaviours/ModelManager.cs" line="120" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

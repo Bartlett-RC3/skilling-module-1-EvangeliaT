@@ -16,11 +16,13 @@ public class Session3 : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+    {
         // Time in frames, not very useful because of variation 
         /*
         counter = counter + 1;
-        if (counter % 30 == 00){
+        if (counter % 30 == 00)
+        {
             Debug.Log("Time in frames is: " + counter/30);
         }
         */

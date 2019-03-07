@@ -1,0 +1,2 @@
+/Users/evangelia/Documents/GitHub/skilling-module-1-EvangeliaT/WS1-Encoded-Assemblies/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/evangelia/Documents/GitHub/skilling-module-1-EvangeliaT/WS1-Encoded-Assemblies/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
